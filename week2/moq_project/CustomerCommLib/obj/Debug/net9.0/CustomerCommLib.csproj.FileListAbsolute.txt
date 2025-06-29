@@ -1,0 +1,12 @@
+E:\Cognizant\digital_nurture-cognizant-\week2\moq_project\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.deps.json
+E:\Cognizant\digital_nurture-cognizant-\week2\moq_project\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.dll
+E:\Cognizant\digital_nurture-cognizant-\week2\moq_project\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.pdb
+E:\Cognizant\digital_nurture-cognizant-\week2\moq_project\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cognizant\digital_nurture-cognizant-\week2\moq_project\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.AssemblyInfoInputs.cache
+E:\Cognizant\digital_nurture-cognizant-\week2\moq_project\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.AssemblyInfo.cs
+E:\Cognizant\digital_nurture-cognizant-\week2\moq_project\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+E:\Cognizant\digital_nurture-cognizant-\week2\moq_project\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.sourcelink.json
+E:\Cognizant\digital_nurture-cognizant-\week2\moq_project\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.dll
+E:\Cognizant\digital_nurture-cognizant-\week2\moq_project\CustomerCommLib\obj\Debug\net9.0\refint\CustomerCommLib.dll
+E:\Cognizant\digital_nurture-cognizant-\week2\moq_project\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.pdb
+E:\Cognizant\digital_nurture-cognizant-\week2\moq_project\CustomerCommLib\obj\Debug\net9.0\ref\CustomerCommLib.dll
