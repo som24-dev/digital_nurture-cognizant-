@@ -13,7 +13,10 @@ In a real SQL environment, we would run:
 ```sql
 EXEC sp_GetEmployeesByDepartment @DeptID = 4;
 
-SQL Server Syntax : EXEC sp_GetEmployeesByDepartment @DeptID = 4;
+SQL Server Syntax :
+EXEC sp_GetEmployeesByDepartment @DeptID = 4;
+
+---
 
 ## ⚠️ Limitation: Stored Procedure Not Supported in DB Fiddle
 
