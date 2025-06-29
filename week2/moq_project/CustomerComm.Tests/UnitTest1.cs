@@ -8,7 +8,7 @@ namespace CustomerComm.Tests
     public class CustomerCommTests
     {
         private Mock<IMailSender> _mockMailSender;
-        private CustomerCommunicator _customerComm; // ✅ renamed
+        private CustomerCommunicator _customerComm; 
 
         [OneTimeSetUp]
         public void Setup()
@@ -16,7 +16,7 @@ namespace CustomerComm.Tests
             _mockMailSender = new Mock<IMailSender>();
             _mockMailSender.Setup(x => x.SendMail(It.IsAny<string>(), It.IsAny<string>())).Returns(true);
 
-            _customerComm = new CustomerCommunicator(_mockMailSender.Object); // ✅ renamed
+            _customerComm = new CustomerCommunicator(_mockMailSender.Object); 
         }
 
         [Test]

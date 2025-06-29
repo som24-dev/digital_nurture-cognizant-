@@ -13,7 +13,7 @@ namespace CustomerCommLib
         }
     }
 
-    public class CustomerCommunicator // ✅ renamed from CustomerComm
+    public class CustomerCommunicator 
     {
         private readonly IMailSender _mailSender;
 
